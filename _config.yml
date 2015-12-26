@@ -1,9 +1,7 @@
 # Site settings
-title: Shuang
+title: 一亩田
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a second year research master student in Behavioural Science (basically, Psychology) in Radboud University, the Netherlands.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.mashuangpsy.com" # the base hostname & protocol for your site
