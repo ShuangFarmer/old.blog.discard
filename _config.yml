@@ -1,23 +1,21 @@
-name: Wangana
-description:  Jekyll theme
+# Site settings
+title: Daktilo
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-sass:
-  sass_dir: assets/css/_sass
-  style: :compressed
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.mashuangpsy.com" # the base hostname & protocol for your site
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+author:
+  fullname: Motaquillah Maddane
+  googleplus: https://www.google.com/+MotaquillahMaddane
+  github: kronik3r
+  twitter: electrik_frog
+  # disqus: your_disqus_username
 
-url: https://blog.mashuangpsy.com
-permalink: /:year/:month/:title/
-owner:
-    name: #
-    twitter: #
-    github: #
-    disqus_shortname: #
+# google_analytics: 'UA-XXXXXXXX-X'
 
-ga_id: #
-ga_username: #
-
-timezone: Africa/Accra
+# Build settings
+markdown: kramdown

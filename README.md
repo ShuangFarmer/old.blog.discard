@@ -1,45 +1,60 @@
-![favicon](https://raw.github.com/nadjetey/wangana/master/favicon.png) Wangana - Jekyll Theme
-==============
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kronik3r/daktilo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-Wangana is responsive [Jekyll](http://jekyllrb.com/) theme, perfect for powering your GitHub hosted blog. Created with love by [nadjetey](https://twitter.com/_nadjetey). 
+# Daktilo
+Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
-* Live demo [here](http://nadjetey.github.io/wangana/)
-* See wangana [elsewhere](http://nadjetey.github.io)
+# Live preview
+[Click here](http://hitchhiker.ma/daktilo/) to see the theme in action.
 
-## Screenshot
-![screenshot](https://raw.github.com/nadjetey/wangana/master/assets/images/wangana.png)
+# Features
+- Fully responsive
+- [Disqus](https://disqus.com/) integration for comments.
+- Google Analytics integration.
+- Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
+- Support for categories.
+- Font-Awesome Icons.
+- Optimized for SEO.
+- Coolest [404 page ever](http://hitchhiker.ma/daktilo/404.html).
 
-## Contributing
-1. Fork the theme ( https://github.com/nadjetey/wangana/fork ) The `master` branch is for development and pull requests. The `gh-pages` branch is for the demo page; don't bother.
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+# How to use it
+Start by cloning the repository, then check the `_config.yml` file and change it accordingly.
+Note that the `title` property is what will be displayed as logo.
 
-## Issues
-[Open](https://github.com/nadjetey/wangana/issues/new) issues if you run into trouble or have suggestions. Pull Requests always welcome.
+Finally execute `jekyll serve --watch` and head to [localhost:4000](http://127.0.0.1:4000) to see the result.
 
-## Installation & Usage
-1 > [Download](https://github.com/nadjetey/wangana/archive/master.zip) package
+# Using categories
+Categories are little bit tricky. Please make sure to do the following for each category:
 
-2 > Fill in the details of the configuration file (/_config.yml) by uncommenting the differents and edit to taste
-Edit: _config.yml (general options), main.css (theme colors & fonts)
-``` bat
-wangana/
-├── _config.yml
-├── _assets/
-    ├── _scss/
-        ├── main.scss
+- Create a file within `categories` folder with the name of your category
+For example let's say that we have a category called `An Awesome Category` you will need to add an `an-awesome-category.html` file with this content:
+
+``` html
+---
+layout: category
+category: an-awesome-category
+permalink: /categories/an-awesome-category/
+---
+
 ```
 
-3 > Run locally with the following commands while in the root directory and view in a browser at localhost:4000
-``` bat
-$ jekyll build
-# Compile and build site files
+- Create an entry inside `_data/categories.yml`
 
-$ jekyll serve --watch
-# Serve site locally
+``` html
+- slug: an-awesome-category
+  name: An Awesome Category
 ```
 
-## Copyright & License
-The MIT License (MIT), Copyright (c) 2014 Nii Adjetey Sowah. [Read full document.](LICENSE)
+- Then you will see it in the footer in the `Explore` section.
+
+# Sneak peek
+
+![img][home_desktop]
+
+![img][home_phone]
+
+[home_desktop]: https://raw.githubusercontent.com/kronik3r/assets/master/daktilo/desktop.png
+[home_phone]: https://raw.githubusercontent.com/kronik3r/assets/master/daktilo/phone.png
+
+# License
+
+The contents of this repository is licensed under [The MIT License.](https://opensource.org/licenses/MIT)
