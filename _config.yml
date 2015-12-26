@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.mashuangpsy.com" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
+  fullname: jekyll + daktilo
   googleplus: https://www.google.com/+MotaquillahMaddane
   github: ShuangFarmer
   twitter: ShuangFarmer
