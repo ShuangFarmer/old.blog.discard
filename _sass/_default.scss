@@ -122,7 +122,7 @@ strong {
 .page-title {
     margin-top:100px;
     margin-bottom:125px;
-    text-align: center;
+    text-align: left;
 }
 
 .page-title__text {
@@ -176,12 +176,12 @@ strong {
     font-size: 22px;
     font-weight: 700;
     color: $iron;
-    text-align: center;
+    text-align: left;
 }
 
 /* =Explore */
 .explore {
-    text-align: center;
+    text-align: left;
     color: $cloudy;
     margin-top: 140px;
 }
@@ -228,13 +228,13 @@ strong {
 .about {
     color: $cloudy;
     margin-top: 70px;
-    text-align: center;
+    text-align: left;
     line-height: 24px;
 }
 
 .about__devider {
     font-size: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
     letter-spacing: 9.09px;
 }
 
