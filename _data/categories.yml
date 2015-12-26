@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: learner
+  name: Learner
 
-- slug: tools
-  name: Tools
+- slug: reader
+  name: Reader
 
-- slug: productivity
-  name: Productivity
+- slug: music
+  name: Music
