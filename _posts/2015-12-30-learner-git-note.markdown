@@ -33,7 +33,8 @@ git是一个分布式版本管理系统。**分布式**是相对**集中式**而
 
  
 ###git入门操作
-####安装
+
+####安装  
 登陆[git下载页面](http://git-scm.com/downloads), 下载安装。安装好后，在terminal中输入：  
  
     $ git --version  
