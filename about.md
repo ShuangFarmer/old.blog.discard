@@ -3,9 +3,8 @@ layout: post
 permalink: /about/
 ---
 
-
-Chengdu.Shanghai. Nijmegen 
+成都. 上海. 奈梅亨
   
-psychology.guitar.programming beginner  
+心理学. 吉他. 编程初学者  
 
 twitter: [@ShuangFarmer](https://twitter.com/ShuangFarmer)
