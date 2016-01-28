@@ -1,8 +1,8 @@
 - slug: learner
   name: Learner
 
-- slug: reader
-  name: Reader
-
 - slug: music
   name: Music
+
+- slug: life
+  name: Life
