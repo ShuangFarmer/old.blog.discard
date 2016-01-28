@@ -3,8 +3,14 @@ layout: post
 permalink: /about/
 ---
 
+
+Chengdu. Shanghai. Nijmegen  
+ 
+Psychology. Guitar. Python beginner
+
+
 成都. 上海. 奈梅亨
   
-心理学. 吉他. 编程初学者  
+心理学. 吉他. Python初学者  
 
-twitter: [@ShuangFarmer](https://twitter.com/ShuangFarmer)
+email: mashuangpsy@gmail.com
