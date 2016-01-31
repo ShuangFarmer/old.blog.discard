@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "实用方法：读《程炼》"
+title:  "实用方法"
 subtitle: 
 date:   2016-01-31 11:38 PM
 categories: [learner]
