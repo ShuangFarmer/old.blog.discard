@@ -47,9 +47,10 @@ categories: [learner]
 
 - 目标  
   参照制定目标的SMART原则：`specific`, `measurable`, `achievable`, `relevant`, `time-boxed`  
-  
-- 计划   
- 继续参照SMART原则，制定短、中、长期计划   
+   
+    
+- 计划  
+继续参照SMART原则，制定短、中、长期计划   
  
 - 执行  
   - 打造学习环境    
