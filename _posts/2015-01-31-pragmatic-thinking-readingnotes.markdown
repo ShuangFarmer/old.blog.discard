@@ -5,7 +5,6 @@ subtitle:
 date:   2016-01-31 11:52 AM
 categories: [learner]
 ---
-
 《程序员的思维修炼》英文版书名为《pragmatic thinking and learning》。pragmatic，指实用、实务、有效处理当前情境中的问题，是全书书眼。书中抛出实用锦囊若干，帮助读者更加有效地学习、思考、处理问题。  
 
 ##1 能力定位：德雷福斯模型 
