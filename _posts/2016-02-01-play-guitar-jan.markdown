@@ -1,9 +1,10 @@
----    
+---
 layout: post
 title:  "1月：练琴小结"
-date: 2016-02-01 09:26
-categories:[music]  
----  
+subtitle: 
+date:   2016-02-01 09:26
+categories: [music]
+---
 今年决定每天拿出半小时认真自学吉他。  
 
 ###学习内容  
