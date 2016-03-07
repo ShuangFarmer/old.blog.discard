@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《<玩具屋>九讲》：慢读"
+title: "慢读"
 subtitle:
 date:  2016-03-08 00:13 AM
 categories: [learner]
