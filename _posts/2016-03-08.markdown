@@ -3,7 +3,7 @@ layout: post
 title:  "《<玩具屋>九讲》：慢读"
 subtitle: ""
 date:   2016-03-08 00:34:01
-categories: [learner]
+categories: [life]
 ---
 《玩具屋》是一部短篇小说，原文不到3000字。台湾作家王文兴先生用了足足九堂课讲解这部短篇小说。《<玩具屋>九讲》则是完整的课堂笔记。  
 
