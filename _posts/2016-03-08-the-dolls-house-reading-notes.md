@@ -15,7 +15,7 @@ categories: [learner]
 要字字求解，便不能一目十行地浏览，而是要用`读诗`的方式咀嚼。读诗，需要`拆`，一个字一个字地读，理解字面意思，揣摩言外之意。读诗，还需要`建`，调用感官和想象力，把纸上文字转化为彩色的画面、立体的空间、动态的情境，置身其中，体会文字用意。
 
 以《玩具屋》的一小段描写为例：  
->Lil, for instance, who was a stout, plain child, with big freckles, came to school in a dress made from a green art-serge table cloth of the Burnells' with red plush sleeves from the Logans' curtains.
+> Lil, for instance, who was a stout, plain child, with big freckles, came to school in a dress made from a green art-serge table cloth of the Burnells' with red plush sleeves from the Logans' curtains.
 先说丽儿——高大、不标致、满脸大雀斑的女孩——上学所穿的外衣，就是用伯内尔家的绿色斜条纹桌布，以及罗根家红丝绒窗帘做的袖子，并凑而成的。
 
 Lil的母亲是洗衣妇，父亲尚在监狱。在这篇小说中，社会地位低下Lil屡遭他人的排斥和嘲笑。摘出的这一片段是对Lil的人物描写。  
